@@ -1,4 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WetnwRi.jpg" group-title="NOTICE", Notice
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png" group-title="Discovery", Discovery HD
 http://ctgbox.com:8081/en_ctgbox/3/mono.m3u8?token=5a94c755a76517d2c4d60fae114862455091fd94-a53e51c25bcf39d547aa7f8de49c1035-1708560159-1708549359&remote=192.168.87.4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/national-geographic-logo-png-file-nat-geo-hd-png-778.png" group-title="NAT GEO", NATIONAL GEOGRAPHY
+http://ctgbox.com:8081/roarzone/bk/35/tracks-v1a1/mono.m3u8?token=fcf5a07d81f7a86c9812a645d625f70cf2ae567e-6d2e6e90047fd8c1ba5e42e3be6fe421-1708564270-1708553470
